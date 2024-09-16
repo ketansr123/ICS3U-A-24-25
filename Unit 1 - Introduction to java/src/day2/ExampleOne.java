@@ -1,6 +1,6 @@
 package day2;
 
-public class example1 {
+public class ExampleOne {
 
     public static void main(String[] args) {
         int number = 4111;
@@ -9,7 +9,7 @@ public class example1 {
         int digit2 = number / 100 %10;
         int digit3 = number / 10 %10;
 
-        system.out.println(digit1 + digit2 + digit3 + digit4);
+        System.out.println(digit1 + digit2 + digit3 + digit4);
 
 
 }
